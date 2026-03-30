@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Albertino! 👋
 
-<!--
-**Bertinooo/Bertinooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Aku adalah mahasiswa di Universitas Semarang,
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="200" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tech Stack
+Berikut merupakah skill yang saya bisa tetapi hanya dasar saja
+
+- **Languages:** C#, Python, JavaScript, HTML, CSS
+- **Frameworks & Tools:** Laravel, Unity, Git
+- **Interests:** Game Development, Web Development, Machine Learning
+
+## 🌐 Social Media & Links
+Saya tidak bermain sosial media
+
